@@ -212,3 +212,12 @@ metrology_app/
 │
 ├── main.py
 └── requirements.txt
+
+### How to run
+
+Using Make tool:
+
+```bash
+make run
+make tests
+```
