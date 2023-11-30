@@ -195,23 +195,23 @@ class SecurityModule:
 
 ## Project Example
 
-metrology_app/
-│
-├── measurements/
-│   ├── __init__.py
+metrology_app/  
+│  
+├── measurements/  
 │   └── temperature.py
-│
-├── analysis/
-│   ├── __init__.py
-│   └── data_analysis.py
-│
-├── tests/
-│   ├── __init__.py
-│   ├── test_temperature.py
-│   └── test_data_analysis.py
-│
-├── main.py
-└── requirements.txt
+│   ├── __init__.py  
+│  
+├── analysis/  
+│   ├── __init__.py  
+│   └── data_analysis.py  
+│  
+├── tests/  
+│   ├── __init__.py  
+│   ├── test_temperature.py  
+│   └── test_data_analysis.py  
+│  
+├── main.py  
+└── requirements.txt  
 
 ### How to run
 
